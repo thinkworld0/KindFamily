@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="smssdk_green">#08979C</color>
+    <color name="smssdk_white_line">#14ffffff</color>
+    <color name="smssdk_hint_textcolor">#7fffffff</color>
+    <color name="smssdk_text_green">#099A9F</color>
+
+</resources>
